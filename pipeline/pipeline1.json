@@ -46,7 +46,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DbuguerFany",
+						"referenceName": "Dbuguer",
 						"type": "DatasetReference"
 					}
 				],
@@ -101,7 +101,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DbuguerFany",
+						"referenceName": "Dbuguer",
 						"type": "DatasetReference"
 					}
 				],
@@ -156,7 +156,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DbuguerFany",
+						"referenceName": "Dbuguer",
 						"type": "DatasetReference"
 					}
 				],
@@ -211,7 +211,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DbuguerFany",
+						"referenceName": "Dbuguer",
 						"type": "DatasetReference"
 					}
 				],
@@ -266,7 +266,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DbuguerFany",
+						"referenceName": "Dbuguer",
 						"type": "DatasetReference"
 					}
 				],
@@ -321,7 +321,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DbuguerFany",
+						"referenceName": "Dbuguer",
 						"type": "DatasetReference"
 					}
 				],
