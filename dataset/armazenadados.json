@@ -9,7 +9,10 @@
 		"type": "DelimitedText",
 		"typeProperties": {
 			"location": {
-				"type": "AzureBlobStorageLocation"
+				"type": "AzureBlobStorageLocation",
+				"fileName": "recebimento",
+				"folderPath": "arquivos",
+				"container": "cppiper"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
