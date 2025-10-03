@@ -1,5 +1,5 @@
 {
-	"name": "DbuguerFany",
+	"name": "Dbuguer",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "Oracle",
