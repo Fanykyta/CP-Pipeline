@@ -46,7 +46,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "dburgerdbloja",
+						"referenceName": "dbendloja",
 						"type": "DatasetReference"
 					}
 				],
