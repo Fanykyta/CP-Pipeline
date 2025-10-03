@@ -2,15 +2,14 @@
 	"name": "armazenadados",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "checkpoint4dw",
+			"referenceName": "CP_Piper_Amarzenar",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
 			"location": {
-				"type": "AzureBlobStorageLocation",
-				"container": "origemdadoscp"
+				"type": "AzureBlobStorageLocation"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
