@@ -1,5 +1,5 @@
 {
-	"name": "AmarzenamentoF",
+	"name": "Amarzenamento",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "CP_Piper_Amarzenar",
