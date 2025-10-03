@@ -1,0 +1,9 @@
+{
+	"name": "CP-pipeline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e0c880e-c109-4776-853b-42773f87e178",
+		"tenantId": "11dbbfe2-89b8-4549-be10-cec364e59551"
+	}
+}
