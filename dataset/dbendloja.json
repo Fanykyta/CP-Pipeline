@@ -2,15 +2,11 @@
 	"name": "dbendloja",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "dburger",
+			"referenceName": "Oracle",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
 		"type": "OracleTable",
-		"schema": [],
-		"typeProperties": {
-			"schema": "RM555191",
-			"table": "DB_END_LOJA"
-		}
+		"schema": []
 	}
 }
