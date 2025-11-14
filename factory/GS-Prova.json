@@ -1,0 +1,9 @@
+{
+	"name": "GS-Prova",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99b8c316-6482-442f-bb26-722c6fc55143",
+		"tenantId": "11dbbfe2-89b8-4549-be10-cec364e59551"
+	}
+}
